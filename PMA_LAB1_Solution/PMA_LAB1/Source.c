@@ -12,7 +12,7 @@ void do_you_want_more(void);
 void zadatak_2(void);
 void zadatak_3(void);
 
-int main()
+int main(void)
 {
 	printf("******************************************************************\n");
 	printf("*    PMA Vjeba 1 2018/2019                      Josip Vuckovic   *\n");
