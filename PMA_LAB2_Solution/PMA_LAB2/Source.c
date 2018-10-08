@@ -108,7 +108,7 @@ int zadatak_1()
 	system("cls");
 	printf("**********************************************************************\n");
 	printf("*                        Zadatak 1                                   *\n");
-	printf("* Unosimo dva cijela broja te gledamo dali im je zbroj znamenki isti.*\n");
+	printf("* Unosimo dva cijela broja te gledamo zbroj znamenki.                *\n");
 	printf("* Ako su isti, ispisujemo poruku koja to potvrduje, ukoliko nisu,    *\n");
 	printf("* ispisujemo poruku koja kaže da nisu.                               *\n");
 	printf("**********************************************************************\n");
@@ -156,7 +156,7 @@ int zadatak_2()
 	system("cls");
 	printf("**********************************************************************\n");
 	printf("*                        Zadatak 2                                   *\n");
-	printf("* Unosimo jedan cijeli broj te gledamo dali je on jak broj. Jaki     *\n");
+	printf("* Unosimo jedan cijeli broj te gledamo je li on jak broj. Jaki       *\n");
 	printf("* brojevi su oni, kojima je broj jednak zbroju faktorijela znamenki. *\n");
 	printf("* Ispisujemo potvrdu jesu li ili nisu.                               *\n");
 	printf("**********************************************************************\n");
