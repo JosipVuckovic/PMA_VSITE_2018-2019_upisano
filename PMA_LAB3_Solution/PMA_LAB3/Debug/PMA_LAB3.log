@@ -1,0 +1,5 @@
+﻿  Source.c
+c:\users\korisnik\source\github\pma_vsite_2018-2019_upisano\pma_lab_3_solution\pma_lab_3\source.c(53): warning C4013: 'system' undefined; assuming extern returning int
+c:\users\korisnik\source\github\pma_vsite_2018-2019_upisano\pma_lab_3_solution\pma_lab_3\source.c(131): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\korisnik\source\github\pma_vsite_2018-2019_upisano\pma_lab_3_solution\pma_lab_3\source.c(142): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  PMA_LAB_3.vcxproj -> C:\Users\Korisnik\source\GitHub\PMA_VSITE_2018-2019_upisano\PMA_LAB_3_Solution\Debug\PMA_LAB_3.exe
