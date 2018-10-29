@@ -190,9 +190,10 @@ int zadatak_3()
 				flag = 1;
 				break;
 			}
-			if (flag == 1)
-				break;
+			
 		}
+		if (flag == 1)
+			break;
 	}
 	if (flag == 0)
 	{

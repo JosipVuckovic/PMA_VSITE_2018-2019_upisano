@@ -1,0 +1,8 @@
+﻿  Source.c
+c:\users\korisnik\source\github\pma_vsite_2018-2019_upisano\pma_lab5_solution\pma_lab5\source.c(57): warning C4013: 'system' undefined; assuming extern returning int
+c:\users\korisnik\source\github\pma_vsite_2018-2019_upisano\pma_lab5_solution\pma_lab5\source.c(225): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\korisnik\source\github\pma_vsite_2018-2019_upisano\pma_lab5_solution\pma_lab5\source.c(238): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\korisnik\source\github\pma_vsite_2018-2019_upisano\pma_lab5_solution\pma_lab5\source.c(239): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\korisnik\source\github\pma_vsite_2018-2019_upisano\pma_lab5_solution\pma_lab5\source.c(240): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\korisnik\source\github\pma_vsite_2018-2019_upisano\pma_lab5_solution\pma_lab5\source.c(243): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  PMA_LAB5.vcxproj -> C:\Users\Korisnik\source\GitHub\PMA_VSITE_2018-2019_upisano\PMA_LAB5_Solution\Debug\PMA_LAB5.exe
