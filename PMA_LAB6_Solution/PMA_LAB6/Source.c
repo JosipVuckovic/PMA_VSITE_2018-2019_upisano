@@ -166,7 +166,7 @@ void zadatak_1()
 	printf("\n");
 	do_you_want_more();
 }
-float funkcija_zad_3(float niz[], int br_clanova)
+float* funkcija_zad_3(float niz[], int br_clanova)
 {
 	int i = 0;
 	float* kopija_niza = NULL;
@@ -181,7 +181,7 @@ float funkcija_zad_3(float niz[], int br_clanova)
 	kopija_niza[(br_clanova + 1)] = suma/br_clanova;
 	arit_sred = kopija_niza[(br_clanova + 1)];
 	// pitati zasto iso qsort ne radi!
-	/*qsort(kopija_niza,sizeof * kopija_niza,br_clanova,_compare)*/
+	//qsort(kopija_niza, sizeof * kopija_niza, br_clanova, );
 	for ( i = 0; i < br_clanova+1; ++i)
 	{
 		for (int j = 0; j < (br_clanova + 1); j++)
@@ -221,7 +221,7 @@ float funkcija_zad_3(float niz[], int br_clanova)
 	for ( i = 0; i < (br_clanova); ++i)
 	{
 			if (niz[i] == naj_blizi_arit_sredini)
-			return niz[i];
+			return &niz[i];
 	}
 	return -1;
 }
@@ -282,10 +282,9 @@ void zadatak_4()
 			if (!i)
 				printf("%d %d\n", i, j);
 			else
-			{
-				printf("%d\n", j - i);
-				i = 1 - i;
-			}
+			printf("%d\n", j - i);
+			i = 1 - i;
+			
 		}
 		break;
 	}
