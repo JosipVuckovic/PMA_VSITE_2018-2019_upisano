@@ -1,0 +1,3 @@
+﻿  Source.c
+c:\users\josip vučkoivć\documents\github\pma_vsite_2018-2019_upisano\pma_lab6_solution\pma_lab6\source.c(210): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+  PMA_LAB6.vcxproj -> C:\Users\Josip Vučkoivć\Documents\GitHub\PMA_VSITE_2018-2019_upisano\PMA_LAB6_Solution\Debug\PMA_LAB6.exe
