@@ -1,0 +1,5 @@
+﻿  Source.c
+c:\users\korisnik\source\github\pma_vsite_2018-2019_upisano\pma_lab9_solution\pma_lab9\source.c(99): warning C4090: 'initializing': different 'const' qualifiers
+c:\users\korisnik\source\github\pma_vsite_2018-2019_upisano\pma_lab9_solution\pma_lab9\source.c(127): warning C4013: 'gets' undefined; assuming extern returning int
+c:\users\korisnik\source\github\pma_vsite_2018-2019_upisano\pma_lab9_solution\pma_lab9\source.c(189): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  PMA_LAB9.vcxproj -> C:\Users\Korisnik\source\GitHub\PMA_VSITE_2018-2019_upisano\PMA_LAB9_Solution\Debug\PMA_LAB9.exe
